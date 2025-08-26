@@ -1,1 +1,11 @@
 /*  your css code here. If applicable */
+#main{
+	background-color:#f5f5f5;
+	padding:10px;
+}
+.sub{
+	border:2px solid lightgray;
+	background-color:white;
+	padding:10px;
+	margin:15px;
+}
