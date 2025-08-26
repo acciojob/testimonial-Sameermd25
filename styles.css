@@ -1,18 +1,21 @@
 /*  your css code here. If applicable */
 #main{
 	background-color:#f5f5f5;
-	padding:10px;
+	padding:40px;
 }
 .sub{
-	border:2px solid lightgray;
+	border:1px solid lightgray;
 	background-color:white;
-	padding:10px;
-	margin:15px;
+	padding:20px;
+	margin:15px 0px;
 }
 .author{
 	font-style:italic;
 	text-align:right;
+	margin:0;
 }
 h2{
 	padding:0px 15px;
+	font-size:28px;
+	margin-bottom: 30px;
 }
