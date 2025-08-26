@@ -9,3 +9,10 @@
 	padding:10px;
 	margin:15px;
 }
+.author{
+	font-style:italic;
+	text-align:right;
+}
+h2{
+	padding:0px 15px;
+}
