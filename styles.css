@@ -1,23 +1,19 @@
-/* Body background to test contrast (optional) */
 body {
   margin: 0;
   font-family: Arial, sans-serif;
 }
 
-/* Main testimonial section */
 .testimonial-section {
   background-color: #f5f5f5;
   padding: 40px;
 }
 
-/* Section heading */
 .testimonial-section h2 {
   font-size: 32px;
   font-weight: bold;
   margin-bottom: 30px;
 }
 
-/* Individual testimonial box */
 .testimonial {
   background-color: #ffffff;
   padding: 20px;
@@ -25,7 +21,6 @@ body {
   margin-bottom: 20px;
 }
 
-/* Author name styling */
 .testimonial .author {
   text-align: right;
   font-style: italic;
