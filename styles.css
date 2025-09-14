@@ -1,27 +1,33 @@
-/*  your css code here. If applicable */
+/* Body background to test contrast (optional) */
 body {
   margin: 0;
-  padding: 0;
+  font-family: Arial, sans-serif;
 }
-#main{
-	background-color:#f5f5f5;
-	padding:40px;
+
+/* Main testimonial section */
+.testimonial-section {
+  background-color: #f5f5f5;
+  padding: 40px;
 }
-.sub{
-	border:1px solid lightgray;
-	background-color:white;
-	padding:20px;
-	margin:20px 0;
+
+/* Section heading */
+.testimonial-section h2 {
+  font-size: 32px;
+  font-weight: bold;
+  margin-bottom: 30px;
 }
-.author{
-	font-style:italic;
-	text-align:right;
-	margin-top: 15px;
-    margin-bottom: 0;
+
+/* Individual testimonial box */
+.testimonial {
+  background-color: #ffffff;
+  padding: 20px;
+  border: 1px solid #ccc;
+  margin-bottom: 20px;
 }
-h2{
-	padding-left: 1px;
-	font-size:28px;
-	font-weight: bold;
-	margin-bottom: 30px;
+
+/* Author name styling */
+.testimonial .author {
+  text-align: right;
+  font-style: italic;
+  margin-top: 10px;
 }
